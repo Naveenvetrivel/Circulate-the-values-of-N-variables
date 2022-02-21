@@ -28,4 +28,4 @@ def circulate():
 ![GitHub Logo](circulating.png)
 
 ## Result:
-Hence the values are circulated
+THE PROGRAM IS EXECUTED
